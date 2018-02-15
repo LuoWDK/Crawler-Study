@@ -8,4 +8,8 @@
 1. [sina API](http://open.weibo.com)
     > Unfortunately, the API to requesting data about specific users is closed.
 2. Detail of the KNIME workflow
-    - [KNIME project](https://github.com/LuoWDK/Crawler-Study/blob/master/KNIME%20project%20for%20sina%20API.knwf) for sina API
+    - [KNIME project](https://github.com/LuoWDK/Crawler-Study/blob/master/sina/KNIME%20project%20for%20sina%20API.knwf) for sina API
+    - overview:
+        > you must insert your own access token in **get request node** 
+
+![workflow overview of sina API](https://github.com/LuoWDK/Crawler-Study/blob/master/sina/workflow.PNG)
